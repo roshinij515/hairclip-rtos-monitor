@@ -2,7 +2,7 @@
 
 A wearable animated display built on the **LilyGO T-Display-S3** (ESP32-S3), plus a live **FreeRTOS task monitor** that runs on the same board. It can run on a LiPo battery.
 
-![Demo](images/demo.jpg)
+![RTOS task monitor running on the T-Display-S3](images/WhatsApp%20Image%202026-10-18%20at%209.43.36%20PM.jpeg)
 
 ## What it does
 
