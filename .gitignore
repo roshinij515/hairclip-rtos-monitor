@@ -1,0 +1,10 @@
+build/
+*.elf
+*.bin
+*.map
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+.pio/
